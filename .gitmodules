@@ -1,0 +1,4 @@
+[submodule "BotFramework-Composer"]
+	path = BotFramework-Composer
+	url = https://github.com/microsoft/BotFramework-Composer
+	branch = stable
