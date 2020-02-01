@@ -2,3 +2,7 @@
 	path = BotFramework-Composer
 	url = https://github.com/microsoft/BotFramework-Composer
 	branch = stable
+[submodule "kiara-code-siren.wiki"]
+	path = kiara-code-siren.wiki
+	url = https://github.com/aviral-garg/kiara-code-siren.wiki.git
+	branch = master
